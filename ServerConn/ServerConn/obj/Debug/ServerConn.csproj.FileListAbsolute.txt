@@ -1,0 +1,10 @@
+c:\users\dann\documents\visual studio 2017\Projects\ServerConn\ServerConn\bin\Debug\ServerConn.exe.config
+c:\users\dann\documents\visual studio 2017\Projects\ServerConn\ServerConn\bin\Debug\ServerConn.exe
+c:\users\dann\documents\visual studio 2017\Projects\ServerConn\ServerConn\bin\Debug\ServerConn.pdb
+c:\users\dann\documents\visual studio 2017\Projects\ServerConn\ServerConn\obj\Debug\ServerConn.csprojResolveAssemblyReference.cache
+c:\users\dann\documents\visual studio 2017\Projects\ServerConn\ServerConn\obj\Debug\ServerConn.Form1.resources
+c:\users\dann\documents\visual studio 2017\Projects\ServerConn\ServerConn\obj\Debug\ServerConn.Properties.Resources.resources
+c:\users\dann\documents\visual studio 2017\Projects\ServerConn\ServerConn\obj\Debug\ServerConn.csproj.GenerateResource.Cache
+c:\users\dann\documents\visual studio 2017\Projects\ServerConn\ServerConn\obj\Debug\ServerConn.exe
+c:\users\dann\documents\visual studio 2017\Projects\ServerConn\ServerConn\obj\Debug\ServerConn.pdb
+c:\users\dann\documents\visual studio 2017\Projects\ServerConn\ServerConn\obj\Debug\ServerConn.logado.resources
